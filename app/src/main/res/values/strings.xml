@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Volume Calculator</string>
+
+    <string name="cube_formul">Объём куба равен произведению трех ребер куба или, так как,
+        ребра куба равны, кубу (третьей степени) его ребра.\n
+        Формула объёма куба имеет следующий вид:\n
+        V = h^3\n
+        где h - высота ребра данного куба</string>
+    <string name="cube_result"> V = h^3  = </string>
+
+    <string name="cylinder_formul">Чтобы определить объем цилиндра по радиусу, необходимо произвести расчет по формуле:\n
+        V  = π · r² · h\n
+        где r - радиус
+            h - высота
+    </string>
+    <string name="cylinder_result"> V = π · r² · h = </string>
+
+    <string name="prism_formul">Чтобы определить объем прямоугольной призмы, необходимо произвести расчет по формуле:\n
+    V = l · w · h\n
+    где l - длина\n
+        w - ширина\n
+        h - высота</string>
+    <string name="prism_result"> V = l · w · h = </string>
+
+    <string name="sphere_formul">Чтобы определить объем шара, необходимо произвести расчет по формуле:\n
+    V = 4/3 · π · r^3\n
+    где r - радиус\n</string>
+    <string name="sphere_result"> V = 4/3 · π · r^3 = </string>
+
+
+</resources>
